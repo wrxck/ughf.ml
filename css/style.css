@@ -3,9 +3,11 @@ body {
 	margin: 1em auto;
 	font-family: 'Comic Sans MS', sans-serif;
 	font-size: 1em;
-	vertical-align: middle;
+	text-align: center;
+	background-color: 'yellow';
 }
 
 h1 {
 	font-size: 5em;
+	color: 'red';
 }
